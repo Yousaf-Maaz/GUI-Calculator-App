@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF095C9-890C-4256-9DBC-C7C4DBA2A1C7}|Calculator_App.csproj|d:\\database-lab assignment-1-yousaf-maaz-22p-9349-bse-4a\\calculator_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF095C9-890C-4256-9DBC-C7C4DBA2A1C7}|Calculator_App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF095C9-890C-4256-9DBC-C7C4DBA2A1C7}|Calculator_App.csproj|D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF095C9-890C-4256-9DBC-C7C4DBA2A1C7}|Calculator_App.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF095C9-890C-4256-9DBC-C7C4DBA2A1C7}|Calculator_App.csproj|D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF095C9-890C-4256-9DBC-C7C4DBA2A1C7}|Calculator_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF095C9-890C-4256-9DBC-C7C4DBA2A1C7}|Calculator_App.csproj|D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFF095C9-890C-4256-9DBC-C7C4DBA2A1C7}|Calculator_App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAB4AAAAAQDMzMzMHwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:40:12.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:40:05.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAG8AAADAzMzMzMwmwJIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:39:57.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Database-Lab Assignment-1-Yousaf-Maaz-22P-9349-BSE-4A\\Calculator_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Database Assignment 1\\Calculator_App\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Database Assignment 1\\Calculator_App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:39:43.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

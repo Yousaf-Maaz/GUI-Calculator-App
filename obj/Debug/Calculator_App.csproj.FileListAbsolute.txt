@@ -1,0 +1,10 @@
+D:\Database Assignment 1\Calculator_App\bin\Debug\Calculator_App.exe.config
+D:\Database Assignment 1\Calculator_App\bin\Debug\Calculator_App.exe
+D:\Database Assignment 1\Calculator_App\bin\Debug\Calculator_App.pdb
+D:\Database Assignment 1\Calculator_App\obj\Debug\Calculator_App.csproj.AssemblyReference.cache
+D:\Database Assignment 1\Calculator_App\obj\Debug\Calculator_App.Properties.Resources.resources
+D:\Database Assignment 1\Calculator_App\obj\Debug\Calculator_App.csproj.GenerateResource.cache
+D:\Database Assignment 1\Calculator_App\obj\Debug\Calculator_App.csproj.CoreCompileInputs.cache
+D:\Database Assignment 1\Calculator_App\obj\Debug\Calculator_App.exe
+D:\Database Assignment 1\Calculator_App\obj\Debug\Calculator_App.pdb
+D:\Database Assignment 1\Calculator_App\obj\Debug\Calculator.Form1.resources
